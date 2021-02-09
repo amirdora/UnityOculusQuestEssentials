@@ -768,6 +768,9 @@
             </e>
           </e>
         </e>
+        <e p="Scripts" t="Include">
+          <e p="VRController.cs" t="Include" />
+        </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Oculus.Platform.csproj" t="IncludeRecursive" />
